@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/10/23 、'85研友会、理事仲間で屋形船に乗って宴会 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/10/23 、銀ぶらのあと、品川から屋形船に乗って宴会 !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
 <!--
