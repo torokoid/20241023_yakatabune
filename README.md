@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20241023_068.JPG) center/cover no-repeat;
+background:url(2024Oct23_85Kenyuukai/20241023_068.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
