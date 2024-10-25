@@ -133,154 +133,154 @@ p.note { display: none; }
 
 <h2><span class="yellow">有楽町駅から集合地点に向かいます！</span></h2>
 
-<a href="20241023_001.JPG" target="_blank"><img src="20241023_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_002.JPG" target="_blank"><img src="20241023_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_003.JPG" target="_blank"><img src="20241023_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_004.JPG" target="_blank"><img src="20241023_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_005.JPG" target="_blank"><img src="20241023_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_006.JPG" target="_blank"><img src="20241023_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_001.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_002.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_003.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_004.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_005.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_006.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_006.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">さすが東京、金のベンツがいます！</span></h2>
 
-<a href="20241023_007.JPG" target="_blank"><img src="20241023_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_008.JPG" target="_blank"><img src="20241023_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_007.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_008.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_008.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">まっちゃん予約のレストランで昼食、しめの料理とデザートを撮影！</span></h2>
 
-<a href="20241023_009.JPG" target="_blank"><img src="20241023_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_010.JPG" target="_blank"><img src="20241023_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_011.JPG" target="_blank"><img src="20241023_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_009.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_010.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_011.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_011.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ウイスキー専門店、有料試飲はスプーン２杯のお値段。200万円の山崎がありました！</span></h2>
 
-<a href="20241023_012.JPG" target="_blank"><img src="20241023_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_013.JPG" target="_blank"><img src="20241023_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_014.JPG" target="_blank"><img src="20241023_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_015.JPG" target="_blank"><img src="20241023_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_016.JPG" target="_blank"><img src="20241023_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_012.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_013.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_014.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_015.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_016.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_016.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ビルの隙間の神社でお参り！</span></h2>
 
-<a href="20241023_017.JPG" target="_blank"><img src="20241023_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_017.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_017.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">太田記念美術館を見学！</span></h2>
 
-<a href="20241023_018.JPG" target="_blank"><img src="20241023_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_019.JPG" target="_blank"><img src="20241023_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_020.JPG" target="_blank"><img src="20241023_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_018.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_019.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_020.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_020.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">やけに可愛らしい階段の広告！</span></h2>
 
-<a href="20241023_021.JPG" target="_blank"><img src="20241023_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_021.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_021.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">国立競技場も散策！</span></h2>
 
-<a href="20241023_022.JPG" target="_blank"><img src="20241023_022.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_023.JPG" target="_blank"><img src="20241023_023.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_024.JPG" target="_blank"><img src="20241023_024.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_025.JPG" target="_blank"><img src="20241023_025.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_026.JPG" target="_blank"><img src="20241023_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_022.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_023.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_024.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_025.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_026.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">品川駅から屋形船の乗り場に向かいます！</span></h2>
 
-<a href="20241023_027.JPG" target="_blank"><img src="20241023_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_027.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">屋形船乗り場に到着！</span></h2>
 
-<a href="20241023_028.JPG" target="_blank"><img src="20241023_028.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_029.JPG" target="_blank"><img src="20241023_029.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_030.JPG" target="_blank"><img src="20241023_030.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_031.JPG" target="_blank"><img src="20241023_031.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_032.JPG" target="_blank"><img src="20241023_032.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_033.JPG" target="_blank"><img src="20241023_033.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_034.JPG" target="_blank"><img src="20241023_034.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_035.JPG" target="_blank"><img src="20241023_035.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_036.JPG" target="_blank"><img src="20241023_036.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_037.JPG" target="_blank"><img src="20241023_037.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_038.JPG" target="_blank"><img src="20241023_038.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_039.JPG" target="_blank"><img src="20241023_039.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_040.JPG" target="_blank"><img src="20241023_040.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_041.JPG" target="_blank"><img src="20241023_041.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_042.JPG" target="_blank"><img src="20241023_042.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_043.JPG" target="_blank"><img src="20241023_043.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_044.JPG" target="_blank"><img src="20241023_044.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_045.JPG" target="_blank"><img src="20241023_045.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_046.JPG" target="_blank"><img src="20241023_046.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_047.JPG" target="_blank"><img src="20241023_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_028.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_029.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_030.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_031.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_032.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_033.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_034.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_035.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_036.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_037.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_038.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_039.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_040.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_041.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_042.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_043.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_044.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_045.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_046.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_047.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_047.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">屋形船のデザート！</span></h2>
 
-<a href="20241023_048.JPG" target="_blank"><img src="20241023_048.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_049.JPG" target="_blank"><img src="20241023_049.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_050.JPG" target="_blank"><img src="20241023_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_048.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_049.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_050.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_050.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">まっちゃんスマホ写真！</span></h2>
 
-<a href="20241023_069.JPG" target="_blank"><img src="20241023_069.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_070.JPG" target="_blank"><img src="20241023_070.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_071.JPG" target="_blank"><img src="20241023_071.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_072.JPG" target="_blank"><img src="20241023_072.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_073.JPG" target="_blank"><img src="20241023_073.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_074.JPG" target="_blank"><img src="20241023_074.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_075.JPG" target="_blank"><img src="20241023_075.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_076.JPG" target="_blank"><img src="20241023_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_069.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_069.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_070.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_071.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_072.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_073.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_074.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_075.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_076.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_076.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ゴーさんスマホ写真！</span></h2>
 
-<a href="20241023_077.JPG" target="_blank"><img src="20241023_077.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_078.JPG" target="_blank"><img src="20241023_078.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_079.JPG" target="_blank"><img src="20241023_079.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_080.JPG" target="_blank"><img src="20241023_080.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_081.JPG" target="_blank"><img src="20241023_081.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_082.JPG" target="_blank"><img src="20241023_082.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_083.JPG" target="_blank"><img src="20241023_083.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_084.JPG" target="_blank"><img src="20241023_084.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_085.JPG" target="_blank"><img src="20241023_085.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_086.JPG" target="_blank"><img src="20241023_086.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_087.JPG" target="_blank"><img src="20241023_087.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_088.JPG" target="_blank"><img src="20241023_088.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_089.JPG" target="_blank"><img src="20241023_089.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_090.JPG" target="_blank"><img src="20241023_090.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_091.JPG" target="_blank"><img src="20241023_091.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_077.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_078.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_079.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_080.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_081.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_081.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_082.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_083.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_083.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_084.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_084.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_085.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_085.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_086.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_086.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_087.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_087.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_088.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_088.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_089.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_089.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_090.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_090.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_091.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_091.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">まっちゃんスマホ写真、昼の部！</span></h2>
 
-<a href="20241023_092.JPG" target="_blank"><img src="20241023_092.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_093.JPG" target="_blank"><img src="20241023_093.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_094.JPG" target="_blank"><img src="20241023_094.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_095.JPG" target="_blank"><img src="20241023_095.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_092.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_092.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_093.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_093.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_094.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_094.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_095.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_095.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">なんと、通りすがりの若者がシャッター切ってくれました！</span></h2>
-<a href="20241023_096.JPG" target="_blank"><img src="20241023_096.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_097.JPG" target="_blank"><img src="20241023_097.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_098.JPG" target="_blank"><img src="20241023_098.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_096.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_096.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_097.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_097.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_098.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_098.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">以下、屋形船チケットとパンフ一覧！</span></h2>
 
-<a href="20241023_051.JPG" target="_blank"><img src="20241023_051.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_052.JPG" target="_blank"><img src="20241023_052.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_053.JPG" target="_blank"><img src="20241023_053.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_054.JPG" target="_blank"><img src="20241023_054.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_055.JPG" target="_blank"><img src="20241023_055.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_056.JPG" target="_blank"><img src="20241023_056.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_057.JPG" target="_blank"><img src="20241023_057.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_058.JPG" target="_blank"><img src="20241023_058.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_059.JPG" target="_blank"><img src="20241023_059.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_060.JPG" target="_blank"><img src="20241023_060.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_061.JPG" target="_blank"><img src="20241023_061.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_062.JPG" target="_blank"><img src="20241023_062.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_063.JPG" target="_blank"><img src="20241023_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_051.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_052.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_053.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_054.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_055.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_056.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_057.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_058.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_059.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_060.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_061.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_062.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_063.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_063.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お昼のレストランパンフ！</span></h2>
 
-<a href="20241023_064.JPG" target="_blank"><img src="20241023_064.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_065.JPG" target="_blank"><img src="20241023_065.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_066.JPG" target="_blank"><img src="20241023_066.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241023_067.JPG" target="_blank"><img src="20241023_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_064.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_065.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_066.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_067.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_067.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <h2><span class="yellow">アマチュア無線の仕組みで屋形船の移動経路を記録！</span></h2>
 
-<a href="20241023_001.png" target="_blank"><img src="20241023_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_001.png" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_001.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br>
