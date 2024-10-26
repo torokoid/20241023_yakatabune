@@ -169,7 +169,7 @@ p.note { display: none; }
 <a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_019.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_020.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_020.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">やけに可愛らしい階段の広告！</span></h2>
+<h2><span class="yellow">原宿には、やけに可愛らしい階段の広告！</span></h2>
 
 <a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_021.JPG" target="_blank"><img src="https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_021.JPG" alt="サンプル画像" width="900" /></a>
 
